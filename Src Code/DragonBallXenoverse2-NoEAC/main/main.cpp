@@ -42,6 +42,7 @@ int main()
 	{
 		cout << "File is Totally Renamed \n";
 		Sleep(5000);
+		LaunchDBX2WithoutEAC();
 	}
 	else
 	{
